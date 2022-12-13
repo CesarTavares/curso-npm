@@ -13,5 +13,9 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "next": "^13.0.6",
+    "react": "^18.2.0"
   }
 }
